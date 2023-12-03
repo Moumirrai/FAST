@@ -8,7 +8,6 @@
   "outgoing-link",
   "tag-pane",
   "page-preview",
-  "daily-notes",
   "templates",
   "note-composer",
   "command-palette",
@@ -16,8 +15,6 @@
   "bookmarks",
   "random-note",
   "outline",
-  "word-count",
   "slides",
-  "audio-recorder",
   "file-recovery"
 ]

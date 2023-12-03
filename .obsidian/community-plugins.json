@@ -3,8 +3,6 @@
   "table-editor-obsidian",
   "obsidian-checklist-plugin",
   "cmenu-plugin",
-  "obsidian-completr",
-  "obsidian-desmos",
   "obsidian-excalidraw-plugin",
   "obsidian-export-image",
   "obsidian-heading-shifter",
@@ -13,11 +11,10 @@
   "quick-latex",
   "obsidian-reading-time",
   "omnisearch",
-  "numerals",
   "obsidian-wakatime",
   "solve",
   "mathlinks",
-  "copy-as-latex",
   "math-booster",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-completr"
 ]
