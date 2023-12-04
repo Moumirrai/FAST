@@ -2,7 +2,6 @@
   "obsidian-admonition",
   "table-editor-obsidian",
   "obsidian-checklist-plugin",
-  "cmenu-plugin",
   "obsidian-excalidraw-plugin",
   "obsidian-export-image",
   "obsidian-heading-shifter",
@@ -15,6 +14,5 @@
   "solve",
   "mathlinks",
   "math-booster",
-  "obsidian-linter",
-  "obsidian-completr"
+  "various-complements"
 ]

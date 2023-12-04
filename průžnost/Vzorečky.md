@@ -25,14 +25,14 @@ $$\large\Delta l=\alpha\cdot l_{0}\cdot \Delta t\ \ \ \ [m]$$
 ## Napětí za ohybu
 $$\large \sigma x = \frac{M_y}{I_{y}}\cdot z\ \ \ \ [KPa]$$
 - $M_y$ - moment v místě průřezu ($Kn\cdot m = Kpa$)
-- $Iy$ - moment setrvačnosti ($m^4$) - při výpočtu dosazovat metry
+- $Iy$ - [[34. Moment setrvačnosti|moment setrvačnosti]] ($m^4$) - při výpočtu dosazovat metry
 - $z$ - vzdálenost od těžiště ($m$), většinou k okraji průřezu, **nahoru je *-* dolů je +**
 
 ## Smykové napětí za ohybu
 $$\large \tau_{xz} = \frac{V_z\cdot S_y}{I\cdot b}\ \ \ \ [KPa]$$
 - $V_z$ - posouvající síla ($KN$) v požadovaném místě, většinou největší od 0
-- $S_y$ - statický moment ($m^4$) odřezané části, dosazujeme v metrech
-- $I$ - moment setrvačnosti ($m^4$)
+- $S_y$ - [[#Statický moment]]  ($m^4$) odřezané části, dosazujeme v metrech
+- $I$ - [[34. Moment setrvačnosti|moment setrvačnosti]] ($m^4$)
 - $b$ - šířka v místě řezu ($m$)
 
 ## Statický moment
@@ -57,7 +57,7 @@ $$\large \varphi = \frac{M_k\cdot l}{G\cdot I_t}\ \ \ \ [rad]$$
 - $M_k$ - kroutivý moment ($KN\cdot m\; ; \; KPa)$
 - $l$ - vzdálenost ($m$)
 - $G$ - modul pružnosti ve smyku ($KPa$) - bude zadaný u oceli 81 $GPa$, takže dát $\cdot 10^6$
-- $I_t$ - [[#Kroutivé napětí idk]] ($m^4$)
+- $I_t$ - [[#Kroutivé napětí]] ($m^4$)
 - 
 
 ## Modul pružnosti $E$
