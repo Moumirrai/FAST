@@ -36,6 +36,7 @@ $$\large \tau_{xz} = \frac{V_z\cdot S_y}{I\cdot b}\ \ \ \ [KPa]$$
 - $b$ - šířka v místě řezu ($m$)
 
 ## Statický moment
+
 $$\large S_y =  A\cdot z_y$$
 - $A$ - plocha ($m^2$)
 - $z_y$ - vzdálenost od těžištní osy ($m$)
