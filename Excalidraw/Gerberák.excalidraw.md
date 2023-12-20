@@ -8,9 +8,9 @@ tags: [excalidraw]
 
 
 # Text Elements
-[[Průžnost/Vzorečky#Napětí za ohybu]] ^zaD3mrPX
+[[Vzorečkynn#Napětí za ohybu]] ^zaD3mrPX
 
-[[Průžnost/Vzorečky#Smykové napětí za ohybu]] ^TFgo6DlP
+[[Vzorečkynn#Smykové napětí za ohybu]] ^TFgo6DlP
 
 
 # Embedded files
