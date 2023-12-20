@@ -65,4 +65,3 @@ $$\large \varphi = \frac{M_k\cdot l}{G\cdot I_t}\ \ \ \ [rad]$$
 - zadaný většinou v $GPa$
 - pro ocel $210\ GPa$
 - dosazujeme v $KPa$ takže $\cdot 10^6$
-
