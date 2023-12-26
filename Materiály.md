@@ -1,0 +1,23 @@
+- Jednotka poměrného přetvoření - není žádná, je to procento
+- Plastifikační přísady novlivňují - pročet frakcí kameniva
+- Metodou Eddy Current NELZE zjistit - druh výztuže
+- K významým fyzickým degradačním mechanismům v betonu NEpatří - alkalická reakce kameniva
+- Teplota výpalu keramických obkládaček skupiny Bill se pohybuje okolo - 1130°C
+- Akutní průbeh karbonata je podmíněn - vlhkostí betonu 
+- Základní ověřovaná charakteristika ztvrdlého betonu je - pevnost v tlaku
+- Mezi základní faktory neovluvující smrštění betonu a vznik smršťovacích trhlin NEPATŘÍ - nízká penost v tlaku a nízký modul pružnosti
+- Kolik procent oběmu betonu zabírá kamenivo - 75-80 %
+- V kontextu měžení objemové aktivity radonu značí výraz "Obytná místnost" - místnost v objektu s podlahovou výměrou větší než 8 m$^3$ určenou k trvalému bydlení
+- Prostředí XA je - působení chemicky agresivních látek
+- Na jaké metodě je založeno měření integrity pilot z honího povrchu - "**Impact - echo**"
+- Příložný můstkový tenzometr (HM) je vhodný zejména pro - měžení osových přetvořenách vyvolaných pouze nomálovou silou
+- Jaká je hranice rychlosti šíření ultrazvuku pro dobrý (konstrukční) beton - 3700 m/s
+- Převod periody na frekvenci
+	- perioda a frekvence je obrácený hodnota, takže to druhé dostaneme tak že dáme $\large\frac{1}{x}$
+	- $$\large 4\cdot10^{-4}\ s \ =\  \frac{1}{4\cdot10^{-4}}\ Hz = 2500\ Hz = 2.5 \ kHz$$
+	- naopak je to stejně
+- Při zatěžovací zkoušce hovoříme o následujících drzuzích deformace - celková deformace která se skládá ze dvou složek - pružné (elastické) a stálé (plastické)
+- Za sucha lisované obkladačky jsou lisovány tlakem cca - 25 MPa
+- Trvanlivý beton bývám nejčasteji charakterizován jako - pórovitý nepropustný materiál
+- Určení mrtvého času <mark style="background: #FF5582A6;">TODO</mark>
+- 
