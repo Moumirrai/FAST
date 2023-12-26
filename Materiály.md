@@ -20,4 +20,3 @@
 - Za sucha lisované obkladačky jsou lisovány tlakem cca - 25 MPa
 - Trvanlivý beton bývám nejčasteji charakterizován jako - pórovitý nepropustný materiál
 - Určení mrtvého času <mark style="background: #FF5582A6;">TODO</mark>
-- 
