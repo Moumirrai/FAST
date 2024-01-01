@@ -78,8 +78,7 @@ $$\large \Delta l^{1,2}=\frac{\Delta l'+\Delta l''}{2}=54\mu m=54\cdot 10^{-6}m$
 $$\large \Delta \varepsilon^{1,2}=\frac{\Delta l^{1,2}}{H}=\frac{54\cdot 10^{-6}}{0.2}=2.7\cdot 10^{-4}$$
 $$\large \Delta\sigma=\frac{fc}{3}-0.5=\frac{24.3}{3}-0.5=7.6\ N/mm^2$$
 
-$$\large Ec=\frac{\Delta\sigma}{\Delta \varepsilon^{1,2}}\cdot 1000=\frac{7.6}{2.7\cdot 10^{-4}}\cdot 1000 = $$
-## ?????? FIX 1000??????
+$$\large Ec=\frac{\Delta\sigma}{\Delta \varepsilon^{1,2}}=\frac{7.6}{2.7\cdot 10^{-4}} = 28\ 148.15$$
 
 #### Pevnost v tlaku ze zkoušty statiského modulu pružnosti
 - poměrné zkrácení základen $\Delta\varepsilon^{1,2}=0.240\cdot 10^{-3}$
