@@ -46,7 +46,7 @@ $$\large v_i=\frac{L_i}{T_i-T_0}=\frac{0.1}{26.1-1.9}=4132.23=4130\ m/s$$
 - $K_3=1.0541$ //to je v taháku 
 $$\large v_3=K_3\cdot V_z=1.0541\cdot 4000=4216.4\ m\cdot s^{-1}$$
 $$\large 4216.4\ m\cdot s^{-1}=4.2164\ km\cdot s^{-1}$$
-WTF??? XD vůbec nevím co dál
+## WTF??? XD vůbec nevím co dál
 
 #### Výpočet dynamickémo modulu pružnosti v tlaku betonu pomocí ultrazvuku v trojrozměrném prostředí 
 - $k_3=1.0541$  //v taháku 
@@ -70,6 +70,29 @@ Modul pružnosti $G_{cr}$ - je to celé v taháku
 $$\large G_{cr}=4\cdot k\cdot l^2\cdot f_t^2\cdot \varrho=13216.47=13200\ N/mm^2$$
 Poissonův součinitel $V_{cr}$ - taky celé v taháku
 $$\large V_{cr}=\frac{E_{bcL}}{2\cdot G_{cr}}-1=\frac{33500}{2\cdot 13200}-1=0.27$$
-#### Statický modul pružnosti betonu zatěžováním
+#### Statický modul pružnosti betonu zatěžováním Ec
+- horní napětí $fc=24.3\ N/mm^2$
+- délka základy $H=200\ mm$
+- rozdíl délky při zatěžování $\Delta l'=2\mu m$    a   $\Delta l''=56\mu m$
+$$\large \Delta l^{1,2}=\frac{\Delta l'+\Delta l''}{2}=54\mu m=54\cdot 10^{-6}m$$
+$$\large \Delta \varepsilon^{1,2}=\frac{\Delta l^{1,2}}{H}=\frac{54\cdot 10^{-6}}{0.2}=2.7\cdot 10^{-4}$$
+$$\large \Delta\sigma=\frac{fc}{3}-0.5=\frac{24.3}{3}-0.5=7.6\ N/mm^2$$
 
+$$\large Ec=\frac{\Delta\sigma}{\Delta \varepsilon^{1,2}}\cdot 1000=\frac{7.6}{2.7\cdot 10^{-4}}\cdot 1000 = $$
+## ?????? FIX 1000??????
+
+#### Pevnost v tlaku ze zkoušty statiského modulu pružnosti
+- poměrné zkrácení základen $\Delta\varepsilon^{1,2}=0.240\cdot 10^{-3}$
+- modul pružnosti $Ec=30\ 000\ N/mm^2$
+$$\large Ec=\frac{\Delta\sigma}{\Delta \varepsilon^{1,2}}$$
+$$\large \Delta\sigma=Ec\cdot \Delta \varepsilon^{1,2}=30\ 000\cdot 0.24\cdot10^{-3}=7.2\ N/mm^2$$
+$$\large \Delta\sigma=\frac{fc}{3}-0.5$$
+$$\large fc=(\Delta\sigma+0.5)\cdot 3=(7.2+0.5)\cdot 3=23.1\ N/mm^2$$
+#### Hodnota průměrného poměrného přetvoření $\Delta\varepsilon^{1,2}$ 
+- $Ec=32\ 000\ N/mm^2$
+- $\Delta\sigma=8.3\ N/mm^2$ 
+$$\large Ec=\frac{\Delta\sigma}{\Delta \varepsilon^{1,2}}$$
+$$\large \Delta \varepsilon^{1,2}=\frac{\Delta\sigma}{Ec}=$$
+
+## HALO?????
 
