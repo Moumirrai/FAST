@@ -18,7 +18,7 @@ $$\large\Delta l=\frac{N\cdot l}{E\cdot A}\ \ \ \ [m]$$
 
 ## Teplotní deformace $\large\Delta l$
 $$\large\Delta l=\alpha\cdot l_{0}\cdot \Delta t\ \ \ \ [m]$$
-- $\alpha$ - koeficient teplotní roztažnosti (např. $1.2 \cdot 10^{-6}K^{-1}$)
+- $\alpha$ - koeficient teplotní roztažnosti (např. $1.2 \cdot 10^{-5}K^{-1}$)
 - $l_0$ - původní délka materiálu (m)
 - $\Delta t$ - teplotní změna (v kelvinech, takže to samé jak celsius jen jiná nula)
 
