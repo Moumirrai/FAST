@@ -13,7 +13,7 @@
 
 #### YTONG Klasik 200
 - Objemová hmotnost prvku (v suchém stavu) - 475 kg/m³
-- Vzduchová neprůzvučnost $R_w$ - laboratorní - 43 dB
+- Vzduchová neprůzvučnost $R_w$ - laboractorní - 43 dB
 - Norm. pevnost zdicích prvků - 2,8 N/mm2
 ---
 ## Příčky
