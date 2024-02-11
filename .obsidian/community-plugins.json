@@ -9,8 +9,9 @@
   "obsidian-git",
   "obsidian-reading-time",
   "omnisearch",
-  "obsidian-wakatime",
   "solve",
   "mathlinks",
-  "various-complements"
+  "various-complements",
+  "obsidian-completr",
+  "cmenu-plugin"
 ]
