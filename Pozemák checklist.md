@@ -1,11 +1,11 @@
 #todo
 
-- [ ] STUDIE SA
+- [x] STUDIE SA
 - [x] Jenoduchý řez pro návrh schodiště
-- [ ] Doplnit překlady
+- [x] Doplnit překlady
 - [ ] Shlopené řezy překladů
 - [x] Legenda místností
-- [ ] Legenda materiálů
-- [ ] Rohové razítko
+- [x] Legenda materiálů
+- [x] Rohové razítko
 - [ ] Severka
-- [ ] 0,000 = xxxx
+- [x] 0,000 = xxxx
