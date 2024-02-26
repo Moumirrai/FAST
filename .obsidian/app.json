@@ -2,9 +2,9 @@
   "promptDelete": false,
   "pdfExportSettings": {
     "includeName": false,
-    "pageSize": "A4",
+    "pageSize": "A5",
     "landscape": false,
-    "margin": "0",
+    "margin": "1",
     "downscalePercent": 90
   },
   "alwaysUpdateLinks": true,
