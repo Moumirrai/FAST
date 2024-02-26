@@ -5,7 +5,7 @@
     "pageSize": "A5",
     "landscape": false,
     "margin": "1",
-    "downscalePercent": 90
+    "downscalePercent": 80
   },
   "alwaysUpdateLinks": true,
   "tabSize": 2,
