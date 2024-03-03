@@ -2,10 +2,10 @@
   "promptDelete": false,
   "pdfExportSettings": {
     "includeName": false,
-    "pageSize": "A5",
+    "pageSize": "Letter",
     "landscape": false,
     "margin": "1",
-    "downscalePercent": 80
+    "downscalePercent": 84
   },
   "alwaysUpdateLinks": true,
   "tabSize": 2,
