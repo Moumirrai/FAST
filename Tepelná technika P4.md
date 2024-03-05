@@ -23,3 +23,9 @@ $$H_T=\sum (A_j\cdot U_j\cdot b_j)+A\cdot \Delta U_{tbm}\ \ \ [W.K^{-1}]$$
         $$b_j=\frac{\Theta_{i}-\Theta_{sousední\ nevytáp\ prostor}}{\Theta_{i}-\Theta_{e}}$$
 3. Průměrný součinitel prostupu tepla $U_{em}$ $[W.m^{-2}.K^{-1}]$:
 $$U_{em}=\frac{H_T}{A}\ \ \ [W.m^{-2}.K^{-1}]$$
+
+```math
+a = 5*5
+b = a-5
+```
+
