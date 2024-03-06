@@ -11,5 +11,6 @@
   "tabSize": 2,
   "spellcheckLanguages": null,
   "attachmentFolderPath": "BDA001 - Stk/assets",
-  "spellcheck": false
+  "spellcheck": false,
+  "newFileLocation": "current"
 }
