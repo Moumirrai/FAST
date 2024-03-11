@@ -9,6 +9,10 @@ $\Theta_{ai}=20+0.6=20.6°C$
 - v měřítku tlouštěk
 3.Průběh teplot početně
 - Teplota v místě x:
-$$$$
+$$\Theta_x=\frac{\Delta \Theta}{\Delta R}\cdot R_{x}+\Theta_{ai}$$
+$$\Theta_{x}=\frac{-\left(\Theta_{ai} -\Theta_{e} \right)}{R_{t}}\cdot R_{x}+\Theta_{ai}$$
+$$\Theta_{x}=-u\cdot \left(\Theta_{ai}-\Theta_{e} \right)\cdot R_x+\Theta_{ai}$$
+$$\large \Theta_x=\Theta_{ai}-U\cdot R_{x}\left(\Theta_{ai}-\Theta_{e} \right)\ \ \ \ [°C]$$
+- $R_x$ : telený odpor části konstrukce od jejího vnitčního povrchu k místu x
 
 
