@@ -5,4 +5,4 @@ Okrajové podmínky:
 - návrhová vnitřní teplota v zimním období
 $\Theta_{i} = 20°C,\ \Theta_{i,sut}=10°C$
 - návrhová teplota venkovního vzduchu v zimním období
-$\Theta_{e}= -13°C$ 
+$\Theta_{e}= -13°C$  
