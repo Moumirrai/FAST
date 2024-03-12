@@ -16,10 +16,7 @@ $$\large \Theta_x=\Theta_{ai}-U\cdot R_{x}\left(\Theta_{ai}-\Theta_{e} \right)\ 
 - $R_x$ : tepelný odpor části konstrukce od jejího vnitřního povrchu k místu x
 
 ### $S1$
-$\Theta_{si}=20.6-1.359\cdot\left( 0.13 \right)\cdot\left(20.6+13 \right)=14.66°C$
-$\Theta_{1,2}=20.6-1.359\cdot\left( 0.13 + 0.02 \right)\cdot\left(20.6+13 \right)=13.75°C$
-$\Theta_{2,3}=20.6-1.359\cdot\left( 0.13 + 0.02 + 0.524 \right)\cdot\left(20.6+13 \right)=-10.18°C$
-$\Theta_{se}=20.6-1.359\cdot\left( 0.13 + 0.02 + 0.524 + 0.022\right)\cdot\left(20.6+13 \right)=-11.20°C$
+$$\Theta_{si}=1.406\cdot \left(-15 - 20.6\right)\cdot \left(-0.04\right)-15=14.66°C$$
 
 
 ### $S1_n$
