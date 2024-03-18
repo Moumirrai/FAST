@@ -24,7 +24,7 @@ Nejnižší povrchová teplota $\Theta_{si,min}
 $$\Theta_{si,min} = \Theta_{ai} - \xi_{Rsi}\cdot \left( \Theta_{ai}-\Theta_e \right)\ \ \ [°C]$$
 - $\xi_{Rsi}$ - poměrný teplotní rozdíl vnitřního povrchu v koutě $[-]$
     - kout mezi vnějšími konstrukcemi: $\xi_{Rsi}=1.05\cdot\left(U\cdot R_{siK} \right)^{0.69}\ \ \ [-]$
-    - kout mezi vnitřními konstrukcemi: $\xi_{Rsi}=0.6\cdot\left(U\cdot R_{siK} \right)^{0.79}\cdot\left(\frac{U_e}{U_i}\right)\ \ \ [-]$
+    - kout mezi vnitřními konstrukcemi: $\xi_{Rsi}=0.6\cdot\left(U\cdot R_{siK} \right)^{0.79}\cdot\left(\frac{U_e}{U_i}\right)^{0.21}\ \ \ [-]$
 $R_{siK}$ - tepelný odpor při přestupu tepla v koutě $[m^2.K.W^{-1}]$ podle tab J.1 ČSN 73 0540-3:2005
 Postup je přípustný, pokud platí $0.8\le \frac{U_1}{U_2}\le 1.25$
 Teplotní faktor vnitřního povrchu $f_{Rsi,min}$
