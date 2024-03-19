@@ -10,15 +10,17 @@ Okrajové podmínky:
 - $\Theta_e = -13°C$
 - $R_{si} = 0.25\ m^2.K.W^{-1}$ pro výpočty šíření vlhkosti (tabulka J.1, sloupec 4)
 - $\Theta_{sut} = 10°C$ 
-## Postup výpočtu
-##### 1.\ V ploše:
+
+‎ 
+‎ 
+##### 1. V ploše:
 
 Nejnižší povrchová teplota $\Theta_{si,min}$
 $$\large \Theta_x=\Theta_{ai}-U\cdot R_{x}\left(\Theta_{ai}-\Theta_{e} \right)\ \ \ \ [°C]$$
 $$\large \Theta_{si,min}=\Theta_{ai}-U\cdot R_{si}\left(\Theta_{ai}-\Theta_{e} \right)\ \ \ \ [°C]$$
 Teplotní faktor vnitřního povrchu $f_{Rsi}$
 $$f_{Rsi} = \frac{\Theta_{si,min}-\Theta_e}{\Theta_{ai}-\Theta_e}\ \ \ [-]$$
-##### 2.\ V koutě:
+##### 2. V koutě:
 
 Nejnižší povrchová teplota $\Theta_{si,min}
 $$\Theta_{si,min} = \Theta_{ai} - \xi_{Rsi}\cdot \left( \Theta_{ai}-\Theta_e \right)\ \ \ [°C]$$
