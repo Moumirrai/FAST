@@ -18,7 +18,7 @@ $\xi_{Rsi}=0.6\cdot\left(U_e\cdot R_{siK} \right)^{0.79}\cdot\left(\frac{U_e}{U_
 $\frac{U_1}{U_{2}}=1.429\nless 1.25$ - mohou vznikat odchylky
 $f_{Rsi} = 1 - \xi_{Rsi}=1-0.245=0.755 \ge f_{Rsi,N}=0.751\ \ \text{VYHOVUJE}$
 
-Kout $P1_s-S1_s$
+Kout $P1_n-S1_n$
 $U_i=0.301 W.m^{-2}.K^{-1}$   ;   $U_e=0.213 W.m^{-2}.K^{-1}$   ;   $R_{si}=0.25m^2.K.W^{-1}$
 $\xi_{Rsi}=0.6\cdot\left(U_e\cdot R_{siK} \right)^{0.79}\cdot\left(\frac{U_e}{U_i}\right)^{0.21}=0.6\cdot\left(0.213\cdot 0.25 \right)^{0.79}\cdot\left(\frac{0.213}{0.301}\right)^{0.21}=0.055$
 $\frac{U_1}{U_{2}}=1.413\nless 1.25$ - mohou vznikat odchylky
