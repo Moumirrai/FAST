@@ -1,0 +1,35 @@
+1. Rozdělení konstrukce na charakteristické olasti, tj, opakující se výseky:  
+a) úseky A a B: rovnoběžné s tepelným toekm,  
+b) úseky 1-6: kolmé k tepelnému toku.  
+  
+2. Tepelný odpor jednotilivých úseků:  
+a) rovnoběžných s tepelným tokem $R^1$:  
+$$\frac{1}{R}=\sum_{i=A}^{M}\frac{f_i}{R_i}=\frac{f_a}{R_a}+\frac{f_b}{R_b}+...+\frac{f_u}{R_u}$$  
+$$R'=\frac{1}{\sum_{i=A}^{M}\frac{f_i}{R_i}}=\frac{1}{\frac{f_a}{R_a}+\frac{f_b}{R_b}+...+\frac{f_u}{R_u}}$$  
+- $R_i$ - tepelný odpor i-tého úseku  
+$$R_i=\sum_{j=1}^{N}\frac{d_j}{\lambda_j}$$  
+- $d_j$ - tloušťka j-té vrstvy [m]  
+- $\lambda_j$ - součinitel tepelné vodivosti materiálu j-té vrstvy //TODO  
+- $f_i$ - poměrný koeficient plochy [-]  
+$$f_i=\frac{Ai}{A}\; [-]$$  
+- $A_i$ - plocha i-tého úseku [$m^2$]  
+- $A$ - plocha celkového charakteristického výseku [$m^2$]  
+  
+b) kolmých k tepelnému toku $R''$  
+$$R''=\sum_{j=1}^{N}R_j=R_1+R_2+...+R_n$$  
+  
+- $R_j$ - tepelný odpor j-tého úseku //TODO  
+- pro stejnorodé vrstvy:  
+$$R_j=\frac{d_j}{\lambda_j}$$  
+- pro nestejnorodé vrstvy  
+$$\frac{1}{R_j}=\sum_{i=A}^{M}\frac{f_{j,i}}{R_{i,i}}=\frac{f_{j,A}}{R_{i,A}}+\frac{f_{j,B}}{R_{i,B}}+...+\frac{f_{j,M}}{R_{i,M}}$$  
+$$f_{j,i}=\frac{A{j,i}}{A_{j}}\; [-]$$  
+  
+3. Ověření podmínky použitelnosti  
+$$\frac{R'}{R''}\le 1.25\; [-]$$  
+  
+4. Tepelný odpor celého charakteristického výseku (Fokinův vztah)  
+  
+$$R=\frac{R'+2\cdot R''}{3}$$  
+  
+### 3. Výpočet
